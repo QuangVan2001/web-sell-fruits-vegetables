@@ -1,0 +1,58 @@
+.button{
+    width: 235px;
+    border: none;
+    background-color: rgb(66, 200, 245);
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+.shopping{
+    width: 235px;
+    background-color: rgb(66, 200, 245);
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-top: 10px;
+}
+.shopping a{
+    padding-left: 65px;
+    text-decoration: none;
+    color: black;
+}
+.button:hover{
+    opacity: 1;
+}
+.button_checkOut{
+    background-color: rgb(66, 200, 245);
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-top: 5px;
+    width: 104%;
+}
+.addNew{
+    width: 235px;
+    background-color: rgb(66, 200, 245);
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.addNew a{
+    padding-left: 55px;
+    text-decoration: none;
+    color: black;
+}
+.addNew:hover{
+    background-color: gray;
+}
+.status{
+    width: 104%;
+    height: 30px;
+}

@@ -1,0 +1,25 @@
+input{
+    padding: 10px;
+    width: 100%
+}
+form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    background-color: rgb(157, 245, 212);
+    height: 100%
+}
+.container{
+    height: 800px;
+}
+.banner{
+    text-align: center;
+}
+.banner p{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
